@@ -1,0 +1,15 @@
+Linux architecture:
+->As we know we cannot directly communicate with the computer hardware ,in order to communicate with hardware's ,there is operating system.
+-> In operating system there is a layer inside linux, i.e. kernal.
+->kernal is suppose to execute the instruction to the hardware's
+->user cannot directly interact with the kernal, hence there is an interface called shell
+->shell is an interface which reads user commands ,once when user writes commands, shell will convert the command into kernal understandable commands and give instructions to kernal to process that command and kernal will give instruction to hardware  to perform the action
+->scripting means set of commands
+
+Linux:
+1:Linux terminal are case sensitive
+2:understanding command line is essential
+3: use tab key for auto-complete the command
+Sudo su->super user
+Shell scripting to automate the manual process
+Aws :to set the infrastructure
